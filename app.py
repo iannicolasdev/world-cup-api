@@ -17,5 +17,13 @@ def list_cups():
     return jsonify(world_cups)
 
 
+@app.route("/world-cups/<int:edition>")
+def search_cup(edition):
+    for cup in world_cups:
+        if cup["edition"] == edition:
+            return jsonify(cup)
+    return jsonify({"error": f"There is no record of a World Cup in {edition}"}), 404
+
+
 if __name__ == "__main__":
     app.run()
