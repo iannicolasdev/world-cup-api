@@ -3,42 +3,48 @@ world_cups = [
         "edition": 2002,
         "host": "South Korea and Japan",
         "winner": "Brazil",
+        "runner_up": "Germany",
         "top_scorer": "Ronaldo",
-        "star_players": ["Ronaldo", "Ronaldinho", "Rivaldo", "Cafu"]
+        "best_player": "Oliver Kahn"
     },
     {
         "edition": 2006,
         "host": "Germany",
         "winner": "Italy",
+        "runner_up": "France",
         "top_scorer": "Miroslav Klose",
-        "star_players": ["Fabio Cannavaro", "Gianluigi Buffon", "Zinedine Zidane"]
+        "best_player": "Zinedine Zidane"
     },
     {
         "edition": 2010,
         "host": "South Africa",
         "winner": "Spain",
+        "runner_up": "Netherlands",
         "top_scorer": "Thomas Müller",
-        "star_players": ["Andrés Iniesta", "Xavi", "Iker Casillas"]
+        "best_player": "Diego Forlán"
     },
     {
         "edition": 2014,
         "host": "Brazil",
         "winner": "Germany",
+        "runner_up": "Argentina",
         "top_scorer": "James Rodríguez",
-        "star_players": ["Thomas Müller", "Manuel Neuer", "Lionel Messi"]
+        "best_player": "Lionel Messi"
     },
     {
         "edition": 2018,
         "host": "Russia",
         "winner": "France",
+        "runner_up": "Croatia",
         "top_scorer": "Harry Kane",
-        "star_players": ["Kylian Mbappé", "Luka Modrić", "Antoine Griezmann"]
+        "best_player": "Luka Modrić"
     },
     {
         "edition": 2022,
         "host": "Qatar",
         "winner": "Argentina",
+        "runner_up": "France",
         "top_scorer": "Kylian Mbappé",
-        "star_players": ["Lionel Messi", "Kylian Mbappé", "Julián Álvarez"]
+        "best_player": "Lionel Messi"
     }
 ]
