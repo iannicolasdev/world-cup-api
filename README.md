@@ -35,10 +35,11 @@ A REST API built with Flask that provides historical FIFA World Cup data, includ
 
 ```json
 {
-    "edition": 2002,
-    "host": "South Korea and Japan",
-    "winner": "Brazil",
-    "top_scorer": "Ronaldo",
-    "star_players": ["Ronaldo", "Ronaldinho", "Rivaldo", "Cafu"]
+  "edition": 2002,
+  "host": "South Korea and Japan",
+  "winner": "Brazil",
+  "runner_up": "Germany",
+  "top_scorer": "Ronaldo",
+  "best_player": "Oliver Kahn"
 }
 ```
