@@ -1,5 +1,93 @@
 world_cups = [
     {
+        "edition": 1930,
+        "host": "Uruguay",
+        "winner": "Uruguay",
+        "runner_up": "Argentina",
+        "top_scorer": "Guillermo Stábile",
+        "best_player": "No official award"
+    },
+    {
+        "edition": 1934,
+        "host": "Italy",
+        "winner": "Italy",
+        "runner_up": "Czechoslovakia",
+        "top_scorer": "Oldřich Nejedlý",
+        "best_player": "No official award"
+    },
+    {
+        "edition": 1938,
+        "host": "France",
+        "winner": "Italy",
+        "runner_up": "Hungary",
+        "top_scorer": "Leônidas",
+        "best_player": "No official award"
+    },
+    {
+        "edition": 1950,
+        "host": "Brazil",
+        "winner": "Uruguay",
+        "runner_up": "Brazil",
+        "top_scorer": "Ademir",
+        "best_player": "No official award"
+    },
+    {
+        "edition": 1954,
+        "host": "Switzerland",
+        "winner": "West Germany",
+        "runner_up": "Hungary",
+        "top_scorer": "Sándor Kocsis",
+        "best_player": "No official award"
+    },
+    {
+        "edition": 1958,
+        "host": "Sweden",
+        "winner": "Brazil",
+        "runner_up": "Sweden",
+        "top_scorer": "Just Fontaine",
+        "best_player": "No official award"
+    },
+    {
+        "edition": 1962,
+        "host": "Chile",
+        "winner": "Brazil",
+        "runner_up": "Czechoslovakia",
+        "top_scorer": ["Vavá", "Garrincha", "Leonel Sánchez", "Dražan Jerković", "Flórián Albert", "Valentin Ivanov"],
+        "best_player": "No official award"
+    },
+    {
+        "edition": 1966,
+        "host": "England",
+        "winner": "England",
+        "runner_up": "West Germany",
+        "top_scorer": "Eusébio",
+        "best_player": "No official award"
+    },
+    {
+        "edition": 1970,
+        "host": "Mexico",
+        "winner": "Brazil",
+        "runner_up": "Italy",
+        "top_scorer": "Gerd Müller",
+        "best_player": "No official award"
+    },
+    {
+        "edition": 1974,
+        "host": "West Germany",
+        "winner": "West Germany",
+        "runner_up": "Netherlands",
+        "top_scorer": "Grzegorz Lato",
+        "best_player": "No official award"
+    },
+    {
+        "edition": 1978,
+        "host": "Argentina",
+        "winner": "Argentina",
+        "runner_up": "Netherlands",
+        "top_scorer": "Mario Kempes",
+        "best_player": "No official award"
+    },
+    {
         "edition": 1982,
         "host": "Spain",
         "winner": "Italy",
@@ -28,7 +116,7 @@ world_cups = [
         "host": "United States",
         "winner": "Brazil",
         "runner_up": "Italy",
-        "top_scorer": ["Hristo Stoichkov", "Oleg Salenko"], # official draw
+        "top_scorer": ["Hristo Stoichkov", "Oleg Salenko"],
         "best_player": "Romário"
     },
     {
