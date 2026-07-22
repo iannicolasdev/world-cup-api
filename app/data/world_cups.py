@@ -174,5 +174,13 @@ world_cups = [
         "runner_up": "France",
         "top_scorer": "Kylian Mbappé",
         "best_player": "Lionel Messi"
+    },
+    {
+        "edition": 2026,
+        "host": ["United States", "Mexico", "Canada"],
+        "winner": "Spain",
+        "runner_up": "Argentina",
+        "top_scorer": "Kylian Mbappé",
+        "best_player": "Rodri"
     }
 ]
